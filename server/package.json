@@ -1,0 +1,23 @@
+{
+  "name": "group_double_ratchet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "date-utils": "^1.2.21",
+    "expressjs": "^1.0.1"
+  },
+  "devDependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "mongodb": "^3.5.9",
+    "socket.io": "^2.3.0",
+    "sqlite3": "^5.0.0"
+  }
+}
