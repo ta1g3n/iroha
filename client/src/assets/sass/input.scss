@@ -1,0 +1,17 @@
+#container{
+    height:34px;
+    border-bottom:2px solid $accent;
+    box-sizing:border-box;
+    color: inherit;
+    input{
+        background: #0000;
+        height:32px;
+        line-height:32px;
+        border:none;
+        padding: 0 8px;
+        box-sizing:border-box;
+        color: inherit;
+        width:100%;
+        outline: none;
+    }
+}
