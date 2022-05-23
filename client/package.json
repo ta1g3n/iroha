@@ -18,7 +18,7 @@
     "axios": "^0.19.2",
     "babel-eslint": "^10.1.0",
     "deepmerge": "^4.2.2",
-    "dexie": "^3.0.1",
+    "dexie": "^3.2.2",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
     "fibers": "^5.0.0",
