@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "crypto": "^1.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "http": "0.0.1-security",
     "mongodb": "^3.5.9",
     "socket.io": "^2.3.0",
